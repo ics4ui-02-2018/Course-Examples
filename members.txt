@@ -1,0 +1,12 @@
+A Lamont
+123 Fake St
+NONE
+Anne Sirs
+98 Euclid Dr
+2
+Dennis Quade
+765 Hollywood Blvd
+1
+John Doe
+987 Some St
+NONE
